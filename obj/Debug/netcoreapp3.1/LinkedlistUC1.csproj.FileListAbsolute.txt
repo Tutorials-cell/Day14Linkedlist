@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.exe
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.deps.json
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.runtimeconfig.json
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.dll
+C:\Users\Bahulya\source\repos\LinkedlistUC1\bin\Debug\netcoreapp3.1\LinkedlistUC1.pdb
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.dll
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.pdb
+C:\Users\Bahulya\source\repos\LinkedlistUC1\obj\Debug\netcoreapp3.1\LinkedlistUC1.genruntimeconfig.cache
