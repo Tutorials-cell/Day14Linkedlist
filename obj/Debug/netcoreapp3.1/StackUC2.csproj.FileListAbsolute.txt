@@ -1,0 +1,13 @@
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.exe
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.deps.json
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.runtimeconfig.json
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.dll
+C:\Users\Bahulya\source\repos\StackUC2\bin\Debug\netcoreapp3.1\StackUC2.pdb
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.dll
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.pdb
+C:\Users\Bahulya\source\repos\StackUC2\obj\Debug\netcoreapp3.1\StackUC2.genruntimeconfig.cache
